@@ -1,0 +1,52 @@
+/* Basic Own Framework */
+.flex {
+    display: flex;
+}
+
+/* Basic Own Framework */
+.space-between {
+    justify-content: space-between;
+}
+
+/* Basic Own Framework */
+.m-4 {
+    margin: 4px;
+}
+
+
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+}
+
+.connect > p > a{
+    text-decoration: none;
+}
+
+.connect, .contact {
+    font-size: 1.125rem;
+}
+
+.badge-container {
+    display: flex;
+    column-gap: 20px;
+    margin-bottom: 18px;
+}
+
+.badge {
+    background-color: rgb(18, 120, 115);
+    color: white;
+    border: 1px solid transparent;
+    padding: 3px 4px;
+    border-radius: 5px;
+}
+
+.bold{
+    font-size: 1.313rem;
+    font-weight: bold;
+}
+
+.margin {
+    margin-top: -15px;
+}
